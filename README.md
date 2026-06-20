@@ -14,20 +14,6 @@ The objective of this task is to:
 
 ---
 
-# Project Structure
-
-CyberSecurity_Task_01_YourName/
-│
-├── Device_Security/
-├── Password_Policy/
-├── Account_Security/
-├── Threat_Research/
-├── Poster/
-├── Reflection/
-└── README.md
-
----
-
 # Part A: Device Security Assessment
 
 # System Information
