@@ -100,7 +100,8 @@ A data breach is unauthorized access to sensitive information.
 
 * **Topic:** Strong Password Awareness
 * **Tool Used:** Canva
-* ![Awareness poster] (poster.png)
+* ![Awareness poster] (poster.png)<img width="1414" height="2000" alt="poster" src="https://github.com/user-attachments/assets/6ce7ee28-a779-430a-b0ca-a9f7c439c680" />
+
 
 ---
 
