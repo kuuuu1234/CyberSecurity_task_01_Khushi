@@ -1,9 +1,9 @@
 # Device Security Assessment
 
-* **Operating System:** Windows 10
-* **OS Version:** 22H2
+* **Operating System:** macOS
+* **OS Version:** Ventura
 * **System Updated:** Yes (updated as of June 2026)
-* **Antivirus Installed:** Yes (Windows Defender enabled)
+* **Antivirus Installed:** Not required (macOS has built-in security features like XProtect and Gatekeeper)
 * **Firewall Enabled:** Yes
 
 # Screenshots
