@@ -100,7 +100,8 @@ A data breach is unauthorized access to sensitive information.
 
 * **Topic:** Strong Password Awareness
 * **Tool Used:** Canva
-* ![Awareness poster] (poster.png) <img width="1414" height="2000" alt="poster" src="https://github.com/user-attachments/assets/6ce7ee28-a779-430a-b0ca-a9f7c439c680" />
+* ![Awareness poster] (poster.png)
+<img width="1414" height="2000" alt="poster" src="https://github.com/user-attachments/assets/6ce7ee28-a779-430a-b0ca-a9f7c439c680" />
 
 
 ---
@@ -114,3 +115,17 @@ I also noticed that Multi-Factor Authentication (MFA) was not enabled on all pla
 To improve my security, I will start using strong and unique passwords for every account. I will enable MFA wherever possible and ensure that my system stays updated. I will also be more careful while clicking links and downloading files from unknown sources.
 
 Cybersecurity is very important in today’s digital world because most personal and financial data is stored online. Even a small mistake can lead to serious consequences such as data theft or financial loss. Therefore, it is important to stay aware and follow good security practices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
